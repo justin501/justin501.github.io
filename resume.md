@@ -1,11 +1,11 @@
-<<<<<<< HEAD
 # Justin Lee
 
 > "Don't let someone else's opinion of you become your reality" 
 -Les Brown
 
-justingl@uw.edu
 ![test!](https://m.media-amazon.com/images/I/41jLBhDISxL._SY355_.jpg)
+
+justingl@uw.edu
 Phone number: XXX-XXX-XXXX
 
 University of Washington, Seattle WA, BA in Science - June 2022
@@ -31,62 +31,3 @@ I qualify for this job because I have the technical hard skills needed, as well 
 
 - Facilitate and belay for youth of Camp Long Community Center as they explore their comfort zone and learn to rock climb
 - Provided instructions effectively and clearly to create a safe learning environment.
-=======
-# Justin Lee
-
-justingl@uw.edu
-
-http://www.example.com
-
-Phone number: XXX-XXX-XXXX
-
-http://www.linkedin.com/in/yourname
-
-# Summary
-
-I qualify for this job because I have the technology hard skills needed, as well as soft skills such as excellent communication and teaming ability.
-
-# Work Experience (only last 10 years)
-
-## University Name 1 (City, State)
-
-* [University 1][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
->>>>>>> 133f387c4a31675ab646985843e7fe5c3a44647a
