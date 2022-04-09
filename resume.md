@@ -5,7 +5,8 @@
 
 ![test!](https://m.media-amazon.com/images/I/41jLBhDISxL._SY355_.jpg)
 
-justingl@uw.edu
+### About me
+justinXXXXXX@uw.edu
 Phone number: XXX-XXX-XXXX
 
 University of Washington, Seattle WA, BA in Science - June 2022
