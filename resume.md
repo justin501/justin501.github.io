@@ -4,11 +4,13 @@ justingl@uw.edu
 
 http://www.example.com
 
+Phone number: XXX-XXX-XXXX
+
 http://www.linkedin.com/in/yourname
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+I qualify for this job because I have the technology hard skills needed, as well as soft skills such as excellent communication and teaming ability.
 
 # Work Experience (only last 10 years)
 
