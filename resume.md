@@ -1,55 +1,32 @@
 # Justin Lee
 
+> "Don't let someone else's opinion of you become your reality" 
+-Les Brown
+
 justingl@uw.edu
+![test!](https://m.media-amazon.com/images/I/41jLBhDISxL._SY355_.jpg)
+Phone number: XXX-XXX-XXXX
 
-http://www.example.com
-
-http://www.linkedin.com/in/yourname
+University of Washington, Seattle WA, BA in Science - June 2022
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+I qualify for this job because I have the technical hard skills needed, as well as soft skills such as excellent communication and teaming ability.
 
-# Work Experience (only last 10 years)
+# Work Experience
+	
+[Chipotle Cashier](https://www.chipotle.com/) - New York, NY (June 2020 - June 2021)
+- Handle customer orders and complaints
+- Front end cashier/cash handling
+- Assisted in cleaning service
 
-## University Name 1 (City, State)
+[UW Seattle Librarian Assistant](https://www.washington.edu/) - (June 2018 - 2021)
 
-* [University 1][] description, particularly if not well-known.*
+- Research and assisted with writing catalogs with connection to the city of Seattle **CoS**.
+- Assisted librarians in organization and database management
+- directing and assisting customers
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+[Seattle O2 Rock Belayer](http://www.seattle.gov/parks/o2---outdoor-opportunities-program-for-teens) - (June 2015 - 2017)
 
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+- Facilitate and belay for youth of Camp Long Community Center as they explore their comfort zone and learn to rock climb
+- Provided instructions effectively and clearly to create a safe learning environment.
