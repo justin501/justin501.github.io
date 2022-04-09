@@ -3,8 +3,10 @@
 > "Don't let someone else's opinion of you become your reality" 
 -Les Brown
 
-justingl@uw.edu
 ![test!](https://m.media-amazon.com/images/I/41jLBhDISxL._SY355_.jpg)
+
+### About me
+justinXXXXXX@uw.edu
 Phone number: XXX-XXX-XXXX
 
 University of Washington, Seattle WA, BA in Science - June 2022
@@ -15,7 +17,7 @@ I qualify for this job because I have the technical hard skills needed, as well 
 
 # Work Experience
 	
-[Chipotle Cashier](https://www.chipotle.com/) - New York, NY (June 2020 - June 2021)
+[Chipotle Cas hier](https://www.chipotle.com/) - New York, NY (June 2020 - June 2021)
 - Handle customer orders and complaints
 - Front end cashier/cash handling
 - Assisted in cleaning service
