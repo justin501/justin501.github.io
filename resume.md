@@ -17,7 +17,7 @@ I qualify for this job because I have the technical hard skills needed, as well 
 
 # Work Experience
 	
-[Chipotle Cas hier](https://www.chipotle.com/) - New York, NY (June 2020 - June 2021)
+[Chipotle Cashier](https://www.chipotle.com/) - New York, NY (June 2020 - June 2021)
 - Handle customer orders and complaints
 - Front end cashier/cash handling
 - Assisted in cleaning service
