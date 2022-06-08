@@ -110,6 +110,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 
 h1, .h1 {
   font-size: calc(1.375rem + 1.5vw);
+  color:#20c997
 }
 @media (min-width: 1200px) {
   h1, .h1 {
@@ -155,6 +156,8 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: #fd7e14;
 }
 
 abbr[title],
@@ -11287,6 +11290,6 @@ textarea.form-control-lg {
   }
 }
 body {
-  background: url("https://dummyimage.com/1920x1080/dee2e6/6c757d.jpg") no-repeat center center fixed;
+  background: url("https://img.wallpapersafari.com/desktop/1920/1080/89/17/dW9J8S.jpg") no-repeat center center fixed;
   background-size: cover;
 }
