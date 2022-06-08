@@ -157,7 +157,8 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
-  color: #fd7e14;
+  color: #dc3545;
+  font-weight: bold;
 }
 
 abbr[title],
@@ -11290,6 +11291,6 @@ textarea.form-control-lg {
   }
 }
 body {
-  background: url("https://img.wallpapersafari.com/desktop/1920/1080/89/17/dW9J8S.jpg") no-repeat center center fixed;
+  background: url("https://jsis.washington.edu/wordpress/wp-content/uploads/2017/12/6797625331_7ee2e0e420_o-1140x760.jpg") no-repeat center center fixed;
   background-size: cover;
 }
